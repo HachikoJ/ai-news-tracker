@@ -1,0 +1,96 @@
+{
+  "arxiv_categories": [
+    "cs.AI",
+    "cs.CL",
+    "cs.CV",
+    "cs.LG",
+    "cs.NE"
+  ],
+  "blogs": [
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/blog/rss.xml",
+      "update_interval": 3600
+    },
+    {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/feed/",
+      "update_interval": 3600
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/rss",
+      "update_interval": 3600
+    },
+    {
+      "name": "Meta AI",
+      "url": "https://ai.meta.com/blog/rss/",
+      "update_interval": 3600
+    },
+    {
+      "name": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/feed/",
+      "update_interval": 1800
+    },
+    {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "update_interval": 3600
+    },
+    {
+      "name": "Machine Learning Mastery",
+      "url": "https://machinelearningmastery.com/feed/",
+      "update_interval": 7200
+    },
+    {
+      "name": "The Gradient",
+      "url": "https://thegradient.pub/rss/",
+      "update_interval": 86400
+    }
+  ],
+  "news_sites": [
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "update_interval": 1800
+    },
+    {
+      "name": "VentureBeat AI",
+      "url": "https://venturebeat.com/ai/feed/",
+      "update_interval": 1800
+    }
+  ],
+  "twitter_accounts": [
+    "OpenAI",
+    "GoogleDeepMind",
+    "AnthropicAI",
+    "MetaAI",
+    "AndrewYNg",
+    "karpathy",
+    "ylecun",
+    "goodfellow_ian",
+    "hardmaru"
+  ],
+  "keywords": [
+    "GPT-5",
+    "Claude-4",
+    "Gemini 2.0",
+    "DeepSeek",
+    "Llama 4",
+    "AGI",
+    "artificial general intelligence",
+    "breakthrough",
+    "SOTA",
+    "state-of-the-art",
+    "model release",
+    "research paper",
+    "arxiv"
+  ],
+  "update_interval_minutes": 5,
+  "importance_threshold": 10,
+  "enable_notification": true,
+  "notification_channels": [
+    "console",
+    "log"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "collected_at": "2026-02-03T12:04:25.241168",
+  "total": 9,
+  "news": [
+    {
+      "source": "Hacker News",
+      "title": "Zai/GLM-OCR",
+      "url": "https://huggingface.co/zai-org/GLM-OCR",
+      "score": 2,
+      "comments": 0,
+      "published": "2026-02-03T11:56:05",
+      "importance_score": 0
+    },
+    {
+      "source": "Hacker News",
+      "title": "xAI engineer fired for leaking secret \"Human Emulator\" project – Macrohard",
+      "url": "https://www.youtube.com/watch?v=0hDMSS1p-UY",
+      "score": 2,
+      "comments": 0,
+      "published": "2026-02-03T11:49:59",
+      "importance_score": 0
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI After Drug Development",
+      "url": "https://asteriskmag.substack.com/p/ai-after-drug-development",
+      "score": 1,
+      "comments": 0,
+      "published": "2026-02-03T11:43:43",
+      "importance_score": 0
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why AI Swarms Cannot Build Architecture",
+      "url": "https://jsulmont.github.io/swarms-ai/",
+      "score": 1,
+      "comments": 0,
+      "published": "2026-02-03T11:42:19",
+      "importance_score": 0
+    },
+    {
+      "source": "Hacker News",
+      "title": "Notebook++ targeted in Chinese-linked supply-chain attack",
+      "url": "https://www.reuters.com/technology/popular-open-source-coding-application-targeted-chinese-linked-supply-chain-2026-02-02/",
+      "score": 2,
+      "comments": 1,
+      "published": "2026-02-03T11:36:38",
+      "importance_score": 0
+    },
+    {
+      "source": "Hacker News",
+      "title": "To Build a Fire:Inside Russia's Campaign of Sabotage in Europe",
+      "url": "https://www.newyorker.com/magazine/2026/02/09/to-build-a-fire",
+      "score": 2,
+      "comments": 0,
+      "published": "2026-02-03T11:28:34",
+      "importance_score": 0
+    },
+    {
+      "source": "Hacker News",
+      "title": "Technical Co-Founder – AI Agent Infrastructure",
+      "url": "https://www.evercred.com",
+      "score": 1,
+      "comments": 1,
+      "published": "2026-02-03T11:27:59",
+      "importance_score": 0
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenClaw – Hands for a Brain That Doesn't yet Exist",
+      "url": "https://bengoertzel.substack.com/p/openclaw-amazing-hands-for-a-brain",
+      "score": 2,
+      "comments": 0,
+      "published": "2026-02-03T11:27:03",
+      "importance_score": 0
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fixing academic email perishability with personal domains",
+      "url": "https://r-federation.eu",
+      "score": 2,
+      "comments": 0,
+      "published": "2026-02-03T11:12:39",
+      "importance_score": 0
+    }
+  ]
+}

@@ -158,19 +158,19 @@ class AINewsScorer:
                 break
         
         # arXiv 论文 (5分)
-        elif source == 'arXiv':
+        if score == 0 and source == 'arXiv':
             score = 5
         
         # 有代码仓库 (4分)
-        elif any(kw in url for kw in ['github.com', 'huggingface.co']):
+        elif score == 0 and any(kw in url for kw in ['github.com', 'huggingface.co']):
             score = 4
         
         # 有详细报告 (3分)
-        elif news_item.get('summary'):
+        elif score == 0 and news_item.get('summary'):
             score = 3
         
         # 仅宣传 (1分)
-        else:
+        elif score == 0:
             score = 1
         
         return score

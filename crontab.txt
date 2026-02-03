@@ -1,0 +1,7 @@
+# AI 新闻监控定时任务
+# 每 10 分钟运行一次
+
+*/10 * * * * cd /root/.openclaw/workspace/skills/ai-news-tracker && bash scripts/monitor.sh >> logs/cron.log 2>&1
+
+# 每 30 分钟检查并发送通知
+*/30 * * * * cd /root/.openclaw/workspace/skills/ai-news-tracker && python3 scripts/notify.py --input data/news_scored.json --output logs/latest_message.txt

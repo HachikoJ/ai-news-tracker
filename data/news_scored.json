@@ -1,0 +1,25 @@
+{
+  "processed_at": "2026-02-03T12:04:25.305983",
+  "threshold": 10,
+  "total_raw": 9,
+  "total_filtered": 1,
+  "news": [
+    {
+      "source": "Hacker News",
+      "title": "Why AI Swarms Cannot Build Architecture",
+      "url": "https://jsulmont.github.io/swarms-ai/",
+      "score": 1,
+      "comments": 0,
+      "published": "2026-02-03T11:42:19",
+      "importance_score": 10.5,
+      "score_details": {
+        "innovation": 3,
+        "impact": 0,
+        "verifiability": 1,
+        "attention": 1,
+        "timeliness": 5
+      },
+      "category": "🟡 重要"
+    }
+  ]
+}

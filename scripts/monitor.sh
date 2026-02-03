@@ -149,8 +149,8 @@ with open('$DATA_DIR/news_scored.json', 'r') as f:
     data = json.load(f)
     news_list = data.get('news', [])
     critical = len([n for n in news_list if n.get('category') == '🔴 极重要'])
-    important = len([n for n in news_list if n.get('category'] == '🟡 重要'])
-    
+    important = len([n for n in news_list if n.get('category') == '🟡 重要'])
+
     print(f"📊 采集统计:")
     print(f"   总计: {len(news_list)} 条")
     print(f"   🔴 极重要: {critical} 条")
