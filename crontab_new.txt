@@ -1,0 +1,8 @@
+# AI 新闻监控定时任务
+# 每 30 分钟运行一次 (0:00-24:00，每天不间断)
+
+# 每 30 分钟运行监控并推送
+*/30 * * * * cd /root/.openclaw/workspace/skills/ai-news-tracker && bash scripts/cron_push.sh
+
+# 每 10 分钟运行监控（不推送）
+*/10 * * * * cd /root/.openclaw/workspace/skills/ai-news-tracker && bash scripts/monitor.sh >> logs/cron.log 2>&1

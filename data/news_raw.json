@@ -1,86 +1,68 @@
 {
-  "collected_at": "2026-02-03T12:04:25.241168",
-  "total": 9,
+  "collected_at": "2026-02-03T15:00:51.191518",
+  "total": 7,
   "news": [
     {
       "source": "Hacker News",
-      "title": "Zai/GLM-OCR",
-      "url": "https://huggingface.co/zai-org/GLM-OCR",
-      "score": 2,
-      "comments": 0,
-      "published": "2026-02-03T11:56:05",
-      "importance_score": 0
-    },
-    {
-      "source": "Hacker News",
-      "title": "xAI engineer fired for leaking secret \"Human Emulator\" project – Macrohard",
-      "url": "https://www.youtube.com/watch?v=0hDMSS1p-UY",
-      "score": 2,
-      "comments": 0,
-      "published": "2026-02-03T11:49:59",
-      "importance_score": 0
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI After Drug Development",
-      "url": "https://asteriskmag.substack.com/p/ai-after-drug-development",
+      "title": "Best AI Detectors in 2026",
+      "url": "https://digg.com/ai-detection/iocMcHI/best-ai-detectors-in-2026",
       "score": 1,
       "comments": 0,
-      "published": "2026-02-03T11:43:43",
+      "published": "2026-02-03T14:46:30",
       "importance_score": 0
     },
     {
       "source": "Hacker News",
-      "title": "Why AI Swarms Cannot Build Architecture",
-      "url": "https://jsulmont.github.io/swarms-ai/",
+      "title": "How does AI impact skill formation?",
+      "url": "https://www.seangoedecke.com/how-does-ai-impact-skill-formation/",
       "score": 1,
       "comments": 0,
-      "published": "2026-02-03T11:42:19",
+      "published": "2026-02-03T14:32:18",
       "importance_score": 0
     },
     {
       "source": "Hacker News",
-      "title": "Notebook++ targeted in Chinese-linked supply-chain attack",
-      "url": "https://www.reuters.com/technology/popular-open-source-coding-application-targeted-chinese-linked-supply-chain-2026-02-02/",
+      "title": "Walter Writes AI",
+      "url": "https://walterwrites.ai/",
+      "score": 2,
+      "comments": 0,
+      "published": "2026-02-03T14:25:41",
+      "importance_score": 0
+    },
+    {
+      "source": "Hacker News",
+      "title": "A Bold Move in the AI Age: The ProjectDiscovery OSS Bounty Program",
+      "url": "https://github.com/projectdiscovery/oss-bounty-program",
       "score": 2,
       "comments": 1,
-      "published": "2026-02-03T11:36:38",
+      "published": "2026-02-03T14:21:49",
       "importance_score": 0
     },
     {
       "source": "Hacker News",
-      "title": "To Build a Fire:Inside Russia's Campaign of Sabotage in Europe",
-      "url": "https://www.newyorker.com/magazine/2026/02/09/to-build-a-fire",
+      "title": "Is AI \"Good\" Yet?",
+      "url": "https://www.is-ai-good-yet.com",
       "score": 2,
       "comments": 0,
-      "published": "2026-02-03T11:28:34",
+      "published": "2026-02-03T14:16:29",
       "importance_score": 0
     },
     {
       "source": "Hacker News",
-      "title": "Technical Co-Founder – AI Agent Infrastructure",
-      "url": "https://www.evercred.com",
+      "title": "Ask HN: Have you been fired because of AI?",
+      "url": "",
+      "score": 4,
+      "comments": 0,
+      "published": "2026-02-03T14:14:23",
+      "importance_score": 0
+    },
+    {
+      "source": "Hacker News",
+      "title": "Built a PHP Library to Convert AI Markdown to WhatsApp, Telegram Formats",
+      "url": "https://github.com/blockshiftnetwork/chat-markdown-converter",
       "score": 1,
       "comments": 1,
-      "published": "2026-02-03T11:27:59",
-      "importance_score": 0
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenClaw – Hands for a Brain That Doesn't yet Exist",
-      "url": "https://bengoertzel.substack.com/p/openclaw-amazing-hands-for-a-brain",
-      "score": 2,
-      "comments": 0,
-      "published": "2026-02-03T11:27:03",
-      "importance_score": 0
-    },
-    {
-      "source": "Hacker News",
-      "title": "Fixing academic email perishability with personal domains",
-      "url": "https://r-federation.eu",
-      "score": 2,
-      "comments": 0,
-      "published": "2026-02-03T11:12:39",
+      "published": "2026-02-03T14:12:44",
       "importance_score": 0
     }
   ]
